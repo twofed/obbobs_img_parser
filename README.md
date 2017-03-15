@@ -1,5 +1,5 @@
-# obbobs_img_parser
-Парсим изоображения с сайта http://obbobs.ru/. 
+# oboobs_img_parser
+Парсим изоображения с сайта http://oboobs.ru/. 
 
 ```
 По переменным:
