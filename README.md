@@ -1,4 +1,4 @@
-# oboobs_img_parser
+# yva_parser
 
 boobs.py
 
