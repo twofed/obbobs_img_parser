@@ -39,5 +39,5 @@ def funnycatpix(path,cats_count,randomize=True):
     print('Congratulations! You get all cats from funnycatpix.')
 
 
-funnycatpix('img/',10,False)
+funnycatpix('/',10,False) #img/
 
