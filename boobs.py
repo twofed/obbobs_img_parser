@@ -4,7 +4,7 @@ import urllib
 
 i=0
 raz=1 # * 20 img
-path='img/'
+path='/' # img/
 
 class get_boobs():
     while raz!=i:
